@@ -1,0 +1,4 @@
+[console_scripts]
+satellite-dashboard = satellite_tracking.launcher:main
+satellite-report = satellite_tracking.satellite_report:main
+satellite-track = satellite_tracking.cli:main
